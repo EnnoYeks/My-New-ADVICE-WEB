@@ -13,12 +13,7 @@
   box-sizing: border-box;
 }
 
-body {background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-              url("nicepic.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  color: white;   /* keeps text readable on top of the image */}
+body {
   margin: 0;
   font-family: Inter, Segoe UI, Roboto, Arial, sans-serif;
   color: var(--text);
@@ -237,4 +232,4 @@ nav a {
   .hero-actions {
     flex-wrap: wrap;
   }
-}First CSS scripts...
+}
